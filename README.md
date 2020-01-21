@@ -21,6 +21,6 @@ The response tweet, "Did Kelly..." is a reply to its immediate context "didn't t
 The test data (for both Twitter and Reddit) will include only the `response` and the `context` but no label. Gold sarcasm labels will be released after the evaluation period. 
 
 ---
-Note:  Since we have collected our training data from popular social media platforms a large portion of the utterances are on controversial and/or political and social topics. Although we have pre-processed the training data and lightly edited to remove contentious text, many utterances still contain controversial perspectives (of the users) and informal language.  
+***Note***:  Since we have collected our training data from popular social media platforms a large portion of the utterances are on controversial and/or political and social topics. Although we have pre-processed the training data and lightly edited to remove contentious text, many utterances still contain controversial perspectives (of the users) and informal language.  
 
 
