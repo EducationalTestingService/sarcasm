@@ -28,6 +28,7 @@ The response tweet, "Did Kelly..." is a reply to its immediate context "didn't t
 
 For Test, we will be providing you the ***response*** and the ***context***. We will also provide the ***id*** (i.e., identifier) to report the the results.
 
+***Submission Instructions*** : Please follow the given [link](submission_instructions.pdf)
 
 
 The gold labels will be released after the evaluations end.
