@@ -26,6 +26,10 @@ The response tweet, "Did Kelly..." is a reply to its immediate context "didn't t
 | Reddit  | 4400  | 1800 |
 | Twitter | 5000  | 1800 |
 
+For Test, we will be providing you the ***response*** and the ***context***. We will also provide the ***id*** (i.e., identifier) to report the the results.
+
+
+
 The gold labels will be released after the evaluations end.
 
 ---
