@@ -32,7 +32,8 @@ For Test, we will be providing you the ***response*** and the ***context***. We 
 ***Submission Instructions*** : Please follow the given [link](submission_instructions.pdf)
 
 ***Main References:***
-A Report on the 2020 Sarcasm Detection Shared Task. Debanjan Ghosh, Avijit Vajpyee, Smaranda Muresan. Proceedings of the Second Workshop on Figurative Language Processing.
+
+[A Report on the 2020 Sarcasm Detection Shared Task.](https://www.aclweb.org/anthology/2020.figlang-1.1.pdf) Debanjan Ghosh, Avijit Vajpyee, Smaranda Muresan. Proceedings of the Second Workshop on Figurative Language Processing.
 
 ---
 ***Note***:  Since we have collected our training data from popular social media platforms a large portion of the utterances are on controversial and/or political and social topics. Although we have pre-processed the training data and lightly edited to remove contentious text, many utterances still contain controversial perspectives (of the users) and informal language.  
