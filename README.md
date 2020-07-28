@@ -1,7 +1,6 @@
 # Automatic Sarcasm Detection 
 
-***The Shared Task (2nd FigLang Workshop at ACL 2020) is now over. Thanks a lot, participants.*** : 
-
+***The Shared Task (2nd FigLang Workshop at ACL 2020) is now over. Thanks a lot, participants :)***  
 
 Please refer to `reddit` and `twitter` sub-directories for further references on datasets. 
 
