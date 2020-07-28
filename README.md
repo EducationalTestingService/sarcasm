@@ -1,12 +1,14 @@
 # Automatic Sarcasm Detection 
 
+***The Shared Task (2nd FigLang Workshop at ACL 2020) is now over. Thanks a lot, participants.*** : 
+
+
 Please refer to `reddit` and `twitter` sub-directories for further references on datasets. 
 
 For Twitter and Reddit, training and testing datasets are provided for sarcasm detection tasks in jsonlines format. 
 
 Each line contains a JSON object with the following fields : 
 - ***label*** : `SARCASM` or `NOT_SARCASM`  
-	- **NOT** in test data
 - ***id***:  String identifier for sample. This id will be required when making submissions.
 	- **ONLY** in test data
 - ***response*** :  the sarcastic response, whether a sarcastic Tweet or a Reddit post
@@ -29,10 +31,6 @@ The response tweet, "Did Kelly..." is a reply to its immediate context "didn't t
 For Test, we will be providing you the ***response*** and the ***context***. We will also provide the ***id*** (i.e., identifier) to report the the results.
 
 ***Submission Instructions*** : Please follow the given [link](submission_instructions.pdf)
-
-
-The gold labels will be released after the evaluations end.
-
 ---
 ***Note***:  Since we have collected our training data from popular social media platforms a large portion of the utterances are on controversial and/or political and social topics. Although we have pre-processed the training data and lightly edited to remove contentious text, many utterances still contain controversial perspectives (of the users) and informal language.  
 
